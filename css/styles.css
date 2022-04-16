@@ -1,0 +1,112 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+
+.container-fluid {
+    padding: 0.5rem;
+ 
+}
+
+.container-responsive {
+    padding-bottom: 7%;
+
+}
+.logo-logo {
+    padding: 0.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+}
+
+#title {
+    background-color: #827397;
+    color: #E9D5DA;
+    text-align: center;
+   
+}
+
+/* NAVBAR */
+
+
+.navbar-brand{
+        font-family: 'Poppins', sans-serif;
+        font-size: 3rem;
+        font-weight: bold;
+        padding-left: 4rem;
+
+}
+
+.nav-item {
+    padding: 0 1.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Main */
+
+
+.cuddle {
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 3rem;
+}
+
+
+/* Carousel */
+
+.sheets {
+    width: 20%;
+}
+
+.carousel-caption {
+    padding-top: 5%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+}
+
+
+
+.carousel-item {
+    padding-bottom: 10%;
+}
+
+
+/* Features */
+
+#features {
+    text-align: center;
+    background-color: #E9D5DA;
+    padding: 5% 5%;
+
+}
+
+.feature-icons {
+    width: 40%;
+    padding: 10% 0;
+
+}
+
+.features {
+    font-size: 1.5rem;
+
+}
+
+.row {
+    padding: 8% 0;
+
+}
+
+
+
